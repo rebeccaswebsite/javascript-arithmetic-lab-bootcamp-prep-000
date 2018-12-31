@@ -31,7 +31,3 @@ function makeInt(n) {
 function preserveDecimal(n) {
   return parseInt(n);
 }
-
-function isNaN(n) {
- console.log('sldkjflksjf');
-}
