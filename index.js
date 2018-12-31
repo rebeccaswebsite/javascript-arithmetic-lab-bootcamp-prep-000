@@ -32,5 +32,6 @@ function preserveDecimal(n) {
   return parseInt(n);
 }
 
-function preserveDecimal(n) {
-  return isNaNpreserveDecimal('sldkjflksjf'))
+function isNaN(n) {
+ console.log("")
+}
