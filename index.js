@@ -33,5 +33,5 @@ function preserveDecimal(n) {
 }
 
 function isNaN(n) {
- console.log("")
+ console.log('sldkjflksjf')
 }
